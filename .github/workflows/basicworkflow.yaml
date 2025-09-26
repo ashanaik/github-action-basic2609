@@ -16,5 +16,4 @@ jobs:
               run: |
                 echo "It will be success!"
                 exit 0
-            - name: Echo Goodbye
-              run: echo "Goodbye, World!"
+            
